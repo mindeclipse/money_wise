@@ -32,5 +32,5 @@ Follow these steps to run MoneyWise locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/mindeclipse/money_wise.git](https://github.com/mindeclipse/money_wise.git)
+git clone https://github.com/mindeclipse/money_wise.git
 cd moneywise
